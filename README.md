@@ -2,15 +2,14 @@
 Me llamo **Laura**, es mi nombre de pila, pero muchos ya me conocen como **Chipi** 🐿️ queda bastante mejor con mi actitud enérgica y sonriente.  
 
 Gracias por pasarte por mi perfil y dedicar tiempo en leer lo que yo dediqué tiempo en escribir.
-Una **andaluza en Madrid**, con la alegría de un andaluz y la templanza de un madrileño.
 
 ---
 
 ## 🎓 Formación y transición al desarrollo
 
 Tras varios años en el sector del **comercio**, donde he desarrollado habilidades sociales, organizativas y resolutivas, decidí reinventarme.  
-Hoy soy **Full Stack Developer**, gracias a mi paso por el bootcamp de **Programación y Desarrollo Web en ID Bootcamps**.  
-Una experiencia que ha despertado mi pasión por resolver problemas y crear cosas útiles y bonitas desde cero.
+Hoy soy **Full Stack Developer**, gracias a mi paso por el bootcamp de **Programación y Desarrollo Web Full Stack**.  
+Una experiencia que ha despertado mi pasión por la programación, resolver problemas y crear cosas útiles y bonitas desde cero.
 
 ---
 
